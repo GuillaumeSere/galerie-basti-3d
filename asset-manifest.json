@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/galerie-basti-3d/static/css/main.f86fc6b0.css",
+    "main.js": "/galerie-basti-3d/static/js/main.0cda6ddc.js",
+    "index.html": "/galerie-basti-3d/index.html",
+    "main.f86fc6b0.css.map": "/galerie-basti-3d/static/css/main.f86fc6b0.css.map",
+    "main.0cda6ddc.js.map": "/galerie-basti-3d/static/js/main.0cda6ddc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f86fc6b0.css",
+    "static/js/main.0cda6ddc.js"
+  ]
+}
